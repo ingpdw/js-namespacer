@@ -1,0 +1,13 @@
+{
+  "name": "js-namespacer",
+  "version": "1.0.2",
+  "description": "declare a namespace in JavaScript",
+  "main": "index.js",
+  "author": {
+    "name": "ingpdw",
+    "email": "ingpdw@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
